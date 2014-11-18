@@ -18,7 +18,7 @@ By default, the `./ad-networks.json` list is used. This is an array of domains g
 
 Eventually you might want to use your own list of network servers.
 
-You can also pass your own array of network servers like this.
+You can pass your own array of network servers like this:
 ```javascript
 var removeAds = require("remove-ads");
 var badAdNetworks = ["annoying.com", "ads.adsense.com"]; // etc. etc.
