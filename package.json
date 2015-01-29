@@ -1,7 +1,7 @@
 {
   "name": "remove-ads",
   "version": "0.0.1",
-  "description": "Remove HTML <a> and <img> tags identified with a catalog of advertisement networks. Great for server side HTML parsing.",
+  "description": "Remove HTML <a> and <img> tags identified with a catalog of advertisement networks. Great for HTML parsing in Node.js!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
