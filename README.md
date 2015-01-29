@@ -1,6 +1,8 @@
 remove-ads
 ==========
 
+(Use by http://getreadapp.com, developed by http://kickassinwebdesign.com)
+
 Remove HTML &lt;a> and &lt;img> tags identified with a catalog of advertising networks. Great for server side HTML parsing.
 
 How to use:
